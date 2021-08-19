@@ -3,4 +3,8 @@ public class Ogrenci {
         System.out.println("Proje 1. aşaması bitti.");
 
     }
+    public static void OgrenciNotEkleme(){
+        System.out.println("Not girişi");
+
+    }
 }
